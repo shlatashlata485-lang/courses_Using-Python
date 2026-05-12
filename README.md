@@ -14,16 +14,16 @@ This project focuses on analyzing data from Udemy, the world's leading online le
 <p align="center">
   <img src="ab.png" width="850">
 </p>
-​3️⃣ Historical Growth & Performance Peak
-​Observation: The "Reviews Growth Over Years" chart indicates a massive surge starting in 2013, reaching its absolute peak between 2015-2016, followed by a sharp decline in 2017.
-​Conclusion: This era was the platform's "Golden Age." The 2017 drop requires further investigation—potentially due to data cut-offs or shifts in platform algorithms—to avoid similar trends in future planning.
+​3️⃣ .Web Development Dominance (Market Demand)
+​Observation: Based on the "Number of Reviews by Subject" chart, Web Development shows an overwhelming lead compared to other categories like Business, Design, and Musical Instruments.
+​Conclusion: This category is the platform's primary revenue engine. Marketing efforts and instructor partnerships should prioritize this field to maximize ROI and maintain market leadership.
 <p align="center">
   <img src="ac.png" width="850">
 </p>
 
-​4️⃣ .Web Development Dominance (Market Demand)
-​Observation: Based on the "Number of Reviews by Subject" chart, Web Development shows an overwhelming lead compared to other categories like Business, Design, and Musical Instruments.
-​Conclusion: This category is the platform's primary revenue engine. Marketing efforts and instructor partnerships should prioritize this field to maximize ROI and maintain market leadership.
+​4️⃣ Historical Growth & Performance Peak
+​Observation: The "Reviews Growth Over Years" chart indicates a massive surge starting in 2013, reaching its absolute peak between 2015-2016, followed by a sharp decline in 2017.
+​Conclusion: This era was the platform's "Golden Age." The 2017 drop requires further investigation—potentially due to data cut-offs or shifts in platform algorithms—to avoid similar trends in future planning.
 <p align="center">
   <img src="ad.png" width="850">
 </p>
